@@ -1,0 +1,14 @@
+scene {
+  position: fixed;
+  height: 100dvh;
+  width: 100dvw;
+  z-index: 999;
+  display: block;
+  transition: 0.3s;
+}
+scene.i {
+  /* the begining animation like showing your website name */
+}
+scene.ii {
+  /* disappearing animation */
+}
